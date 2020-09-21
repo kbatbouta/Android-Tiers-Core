@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Fields>
+
+
+    <Field Name="ATCompUseEffect_SpawnAndroid"
+            FieldType="AndroidTiers.CompUseEffect_SpawnAndroid" TargetType="Verse.Thing"/>
+        <Field Name="ATDownedT5AndroidComp"
+            FieldType="AndroidTiers.DownedT5AndroidComp" TargetType="Verse.Thing"/>
+        <Field Name="ATCompPod"
+            FieldType="AndroidTiers.CompAndroidPod" TargetType="Verse.Thing"/>
+        <Field Name="ATCompState"
+            FieldType="AndroidTiers.CompAndroidState" TargetType="Verse.Thing"/>
+        <Field Name="ATCompAutoDoor"
+            FieldType="AndroidTiers.CompAutoDoor" TargetType="Verse.Thing"/>
+        <Field Name="ATCompBuildingSkyMindLAN"
+            FieldType="AndroidTiers.CompBuildingSkyMindLAN" TargetType="Verse.Thing"/>
+        <Field Name="ATCompBuildingSkyMindRelay"
+            FieldType="AndroidTiers.CompBuildingSkyMindRelay" TargetType="Verse.Thing"/>
+        <Field Name="ATCompBuildingSkyMindWAN"
+            FieldType="AndroidTiers.CompBuildingSkyMindWAN" TargetType="Verse.Thing"/>
+        <Field Name="ATCompComputer"
+            FieldType="AndroidTiers.CompComputer" TargetType="Verse.Thing"/>
+        <Field Name="ATCompHeatSensitive"
+            FieldType="AndroidTiers.CompHeatSensitive" TargetType="Verse.Thing"/>
+        <Field Name="ATCompReloadStation"
+            FieldType="AndroidTiers.CompReloadStation" TargetType="Verse.Thing"/>
+        <Field Name="ATCompRemotelyControlledTurret"
+            FieldType="AndroidTiers.CompRemotelyControlledTurret" TargetType="Verse.Thing"/>
+        <Field Name="ATCompSkyCloudCore"
+            FieldType="AndroidTiers.CompSkyCloudCore" TargetType="Verse.Thing"/>
+        <Field Name="ATCompSkyMind"
+            FieldType="AndroidTiers.CompSkyMind" TargetType="Verse.Thing"/>
+        <Field Name="ATCompSurrogateOwner"
+            FieldType="AndroidTiers.CompSurrogateOwner" TargetType="Verse.Thing"/>
+        <Field Name="ATCompSurrogateSpawner"
+            FieldType="AndroidTiers.CompSurrogateSpawner" TargetType="Verse.Thing"/>
+    <!--    -->
+        <Field Name="ATIsAndroid"
+            FieldType="bool" TargetType="Verse.Thing"/>
+        <Field Name="ATIsBasicAndroid"
+            FieldType="bool" TargetType="Verse.Thing"/>
+        <Field Name="ATIsCyberAnimal"
+            FieldType="bool" TargetType="Verse.Thing"/>
+        <Field Name="ATIsPoweredCyberAnimal"
+            FieldType="bool" TargetType="Verse.Thing"/>
+    <!--    -->
+        <Field Name="ATIsAndroidInit"
+            FieldType="bool" TargetType="Verse.Thing"/>
+        <Field Name="ATIsBasicAndroidInit"
+            FieldType="bool" TargetType="Verse.Thing"/>
+        <Field Name="ATIsCyberAnimalInit"
+            FieldType="bool" TargetType="Verse.Thing"/>
+        <Field Name="ATIsPoweredCyberAnimalInit"
+            FieldType="bool" TargetType="Verse.Thing"/>
+</Fields>
